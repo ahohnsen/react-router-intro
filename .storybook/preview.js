@@ -11,6 +11,8 @@ export const parameters = {
   },
 };
 
+// Add MemoryRouter to all stories with a decorator
+
 export const decorators = [
   (Story) => (
     <>
